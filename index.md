@@ -5,10 +5,10 @@ I'm a 3rd year MS(Research) scholar in Computational Science at IIT Madras, Chen
 Optimization Algorithms, Reinforcement Learning, Imitation Learning, Generative Adversarial Networks 
 
 ### Teaching
-Spring 2016: Machine Learning for Computer Vision
-Fall 2016: CS5011-Introduction to Machine Learning
-Spring 2017: EE5177-Machine Learning for Computer Vision
-Fall 2017: EE5110-Probability Foundation for Electrical Engineers 
+* Spring 2016: Machine Learning for Computer Vision
+* Fall 2016: CS5011-Introduction to Machine Learning
+* Spring 2017: EE5177-Machine Learning for Computer Vision
+* Fall 2017: EE5110-Probability Foundation for Electrical Engineers 
 
 ```markdown
 Syntax highlighted code block
