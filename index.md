@@ -1,6 +1,6 @@
 ### About
 
-I'm a 3rd year MS(Research) scholar in Computational Science at IIT Madras, Chennai, India. As an interdisciplinary student, I belong to the Department of Electrical Engineering and the Department of Computer Science and Engineering at IIT Madras. I am advised by [Dr. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) and [Dr. Radha Krishna Ganti](http://www.ee.iitm.ac.in/~rganti/). 
+I'm a 3rd year MS (Research) scholar in Computational Science at IIT Madras, Chennai, India. As an interdisciplinary student, I belong to the Department of Electrical Engineering and the Department of Computer Science and Engineering at IIT Madras. I am advised by [Dr. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) and [Dr. Radha Krishna Ganti](http://www.ee.iitm.ac.in/~rganti/). 
 
 ### Research Areas
 
@@ -8,17 +8,17 @@ Optimization Algorithms, Reinforcement Learning, Imitation Learning, Generative 
 
 ### Research Projects :
 #### Stabilizing Generative Adversarial Imitation Learning
-With [Akshat Dave](https://adaveiitm.github.io/)(PhD, Rice University), [Dr. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/)
+With [Akshat Dave](https://adaveiitm.github.io/) (PhD, Rice University), [Dr. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/)
 
 We work on a variant of GAIL to stabilize the training and generate smoother policies. We show some results on how smooth cost functions result in smooth policies and measure the performance of continuous control tasks based on novel metrics to measure the quality of the imitation achieved by the agent. This work is under review at a conference.
 
 #### Generalization in Imitation Learning
-With [Nived Narayanan]()
+With [Nived Narayanan] (BTech, IIT Madras)
 
 In this project, we aim to make the policies learned by an imitating agent generalize well to multiple domains. 
 
 #### Analysing mode missing in generative adversarial networks
-With Rahul Vallivel(NIT, Trichy), [Dr. Mitesh Khapra](https://www.cse.iitm.ac.in/~miteshk/), [Dr. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/)
+With Rahul Vallivel (BTech, NIT, Trichy), [Dr. Mitesh Khapra](https://www.cse.iitm.ac.in/~miteshk/), [Dr. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/)
 
 In this project we analyse the various issues with training Generative Adversarial Networks(GANs). We concentrate specifically on the problem of missing modes in generative densities modelled by GANs.
 
