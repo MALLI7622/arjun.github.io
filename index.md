@@ -18,7 +18,7 @@ with [Dr. Radha Krishna Ganti](http://www.ee.iitm.ac.in/~rganti/)
 This works casts the problem of localization in cellular networks as a Semi-Definite Program. We aim to improve the accuracy of the existing methods by correcting for LOS/NLOS error. Certain connections that we aim to draw are with matrix completion and Eucledian Distance Matrices. 
 
 ### Publications :
-Akshat Dave*, Sapana Chaudhary*, Balaraman Ravindran "SILC: Smoother Imitation with Lipschitz Costs" (2017). Accepted for poster presentation at the Deep Learning Symposium at Thirty First Annual Conference on Neural Information Processing Systems (NIPS) 2017.   
+Akshat Dave*, Sapana Chaudhary*, Balaraman Ravindran "SILC: Smoother Imitation with Lipschitz Costs" (2017). Accepted for poster presentation at the Deep Learning Symposium at Thirty First Annual Conference on Neural Information Processing Systems (NIPS) 2017. (* Equal Contribution)
 
 ### Mentoring :
 #### Analysing mode missing in generative adversarial networks
